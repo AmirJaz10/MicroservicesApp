@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# IDE and local tooling
+.vscode/
+.idea/
